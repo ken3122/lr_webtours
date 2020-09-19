@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "connect_to_server",
+        "rawStartTime": 1600478044518,
+        "rawEndTime": 1600478045404
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1600478045406,
+        "rawEndTime": 1600478046450
+    },
+    {
+        "transactionName": "click_itinerary",
+        "rawStartTime": 1600478046453,
+        "rawEndTime": 1600478047485
+    },
+    {
+        "transactionName": "click_sign_off",
+        "rawStartTime": 1600478047487,
+        "rawEndTime": 1600478048435
+    },
+    {
+        "transactionName": "03_Check_Itinerary",
+        "rawStartTime": 1600478044516,
+        "rawEndTime": 1600478048438
+    }
+]

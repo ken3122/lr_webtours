@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Анастасия\Documents\VuGen\Scripts\lr_webtours_scripts\02_ChooseFlight
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\02_chooseflight\\logfile.log
+c:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\02_chooseflight\\combined_02_ChooseFlight.c
+c:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\02_chooseflight\\pre_cci.c

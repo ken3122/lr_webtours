@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 19 Sep 2020 01:33:08 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 18 Sep 2020 01:33:08 GMT
+Set-Cookie: MTUserInfo=firstName&Linda&username&linda5&address2&Moscow&hash&21&address1&Maresiev%20Street&lastName&Persson%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
