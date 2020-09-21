@@ -1,3 +1,3 @@
-"advanceDiscount=0&depart=Denver&departDate=09%2F19%2F2020&arrive=Frankfurt&returnDate=09%2F26%"
-"2F2020&numPassengers=1&seatPref=Aisle&seatType=Coach&findFlights.x=42&findFlights.y=13&.cgifie"
-"lds=roundtrip&.cgifields=seatType&.cgifields=seatPref"
+"advanceDiscount=0&depart=Denver&departDate=09%2F21%2F2020&arrive=Frankfurt&returnDate=09%2F28%"
+"2F2020&numPassengers=1&seatPref=None&seatType=First&findFlights.x=42&findFlights.y=13&.cgifiel"
+"ds=roundtrip&.cgifields=seatType&.cgifields=seatPref"

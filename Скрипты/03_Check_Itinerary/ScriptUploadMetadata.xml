@@ -17,12 +17,16 @@
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="03_Check_Itinerary.c.pickle" Filter="1" />
     <FileEntry Name="03_Check_Itinerary.ci" Filter="1" />
-    <FileEntry Name="03_check_itinerary.prm.bak" Filter="1" />
+    <FileEntry Name="03_Check_Itinerary.prm.bak" Filter="1" />
     <FileEntry Name="03_Check_Itinerary.sdf" Filter="1" />
+    <FileEntry Name="102897923440.idx" Filter="1" />
+    <FileEntry Name="12655447440.idx" Filter="1" />
     <FileEntry Name="12890110440.idx" Filter="1" />
+    <FileEntry Name="15589914440.idx" Filter="1" />
     <FileEntry Name="175010891440.idx" Filter="1" />
     <FileEntry Name="203402626440.idx" Filter="1" />
     <FileEntry Name="53255980440.idx" Filter="1" />
+    <FileEntry Name="5966118440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="cities.csv" Filter="1" />

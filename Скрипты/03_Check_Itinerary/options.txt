@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Анастасия\Documents\VuGen\Scripts\lr_webtours_scripts\03_Check_Itinerary
+-IC:\Users\Анастасия\Documents\GitHub\lr_webtours\Скрипты\03_Check_Itinerary
 -IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\03_check_itinerary\\logfile.log
-c:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\03_check_itinerary\\combined_03_Check_Itinerary.c
-c:\users\анастасия\documents\vugen\scripts\lr_webtours_scripts\03_check_itinerary\\pre_cci.c
+-ec:\users\анастасия\documents\github\lr_webtours\скрипты\03_check_itinerary\\logfile.log
+c:\users\анастасия\documents\github\lr_webtours\скрипты\03_check_itinerary\\combined_03_Check_Itinerary.c
+c:\users\анастасия\documents\github\lr_webtours\скрипты\03_check_itinerary\\pre_cci.c

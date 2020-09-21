@@ -15,14 +15,20 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="combined_01_FindFlight.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="01_FindFlight.c.pickle" Filter="1" />
     <FileEntry Name="01_FindFlight.ci" Filter="1" />
+    <FileEntry Name="01_FindFlight.prm.bak" Filter="1" />
     <FileEntry Name="01_FindFlight.sdf" Filter="1" />
     <FileEntry Name="01_find_flight.prm.bak" Filter="1" />
     <FileEntry Name="110963552440.idx" Filter="1" />
+    <FileEntry Name="136428965440.idx" Filter="1" />
     <FileEntry Name="160440486440.idx" Filter="1" />
     <FileEntry Name="16181850440.idx" Filter="1" />
+    <FileEntry Name="1782679440.idx" Filter="1" />
+    <FileEntry Name="198662808440.idx" Filter="1" />
     <FileEntry Name="263538445440.idx" Filter="1" />
+    <FileEntry Name="37887351440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="cities.csv" Filter="1" />

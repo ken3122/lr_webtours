@@ -22,10 +22,14 @@
     <FileEntry Name="05_CancelFlight.prm.bak" Filter="1" />
     <FileEntry Name="05_CancelFlight.sdf" Filter="1" />
     <FileEntry Name="05_cancel_flight.prm.bak" Filter="1" />
+    <FileEntry Name="148531432440.idx" Filter="1" />
     <FileEntry Name="154934988440.idx" Filter="1" />
     <FileEntry Name="223953327440.idx" Filter="1" />
+    <FileEntry Name="247650549440.idx" Filter="1" />
     <FileEntry Name="32542397440.idx" Filter="1" />
+    <FileEntry Name="37171493440.idx" Filter="1" />
     <FileEntry Name="40922978440.idx" Filter="1" />
+    <FileEntry Name="99060857440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="cities.csv" Filter="1" />
@@ -48,7 +52,6 @@
     <FileEntry Name="seatType.dat" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
-    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

@@ -1,52 +1,52 @@
 [
     {
         "transactionName": "connect_to_server",
-        "rawStartTime": 1600482036285,
-        "rawEndTime": 1600482039884
+        "rawStartTime": 1600712278768,
+        "rawEndTime": 1600712279558
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1600482039887,
-        "rawEndTime": 1600482040470
+        "rawStartTime": 1600712279562,
+        "rawEndTime": 1600712285074
     },
     {
         "transactionName": "click_flights",
-        "rawStartTime": 1600482040474,
-        "rawEndTime": 1600482041180
+        "rawStartTime": 1600712285076,
+        "rawEndTime": 1600712290538
     },
     {
         "transactionName": "click_find_flight",
-        "rawStartTime": 1600482041183,
-        "rawEndTime": 1600482041612
+        "rawStartTime": 1600712290541,
+        "rawEndTime": 1600712295875
     },
     {
         "transactionName": "click_choose_flight",
-        "rawStartTime": 1600482041614,
-        "rawEndTime": 1600482041942
+        "rawStartTime": 1600712295877,
+        "rawEndTime": 1600712301185
     },
     {
         "transactionName": "click_book",
-        "rawStartTime": 1600482041946,
-        "rawEndTime": 1600482042354
+        "rawStartTime": 1600712301187,
+        "rawEndTime": 1600712306571
     },
     {
         "transactionName": "click_itinerary",
-        "rawStartTime": 1600482042357,
-        "rawEndTime": 1600482042879
+        "rawStartTime": 1600712306574,
+        "rawEndTime": 1600712312551
     },
     {
         "transactionName": "click_cancel_ckecked",
-        "rawStartTime": 1600482042882,
-        "rawEndTime": 1600482043291
+        "rawStartTime": 1600712312554,
+        "rawEndTime": 1600712318142
     },
     {
         "transactionName": "click_sign_off",
-        "rawStartTime": 1600482043293,
-        "rawEndTime": 1600482043737
+        "rawStartTime": 1600712318145,
+        "rawEndTime": 1600712323561
     },
     {
         "transactionName": "05_CancelFlight",
-        "rawStartTime": 1600482036283,
-        "rawEndTime": 1600482043740
+        "rawStartTime": 1600712278766,
+        "rawEndTime": 1600712323564
     }
 ]

@@ -53,7 +53,7 @@ vuser_end=cci
 [TransactionsOrder]
 Order="03_Check_Itinerary__*delimiter*__connect_to_server__*delimiter*__login__*delimiter*__click_itinerary__*delimiter*__click_sign_off"
 [StateManagement]
-LastReplayStatus=3
+LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
