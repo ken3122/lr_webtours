@@ -1,4 +1,4 @@
 "firstName=Linda&lastName=Persson&address1=Maresiev+Street&address2=Moscow&pass1=Linda+Persson&"
-"creditCard=129435748&expDate=02%2F22&oldCCOption=&numPassengers=1&seatType=Business&seatPref=W"
-"indow&outboundFlight=083%3B939%3B09%2F19%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit=o"
-"ff&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"
+"creditCard=129435748&expDate=02%2F22&oldCCOption=&numPassengers=1&seatType=First&seatPref=Aisl"
+"e&outboundFlight=081%3B1323%3B09%2F25%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit=off&"
+"buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"

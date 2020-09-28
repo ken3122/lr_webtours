@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "connect_to_server",
+        "rawStartTime": 1601064998495,
+        "rawEndTime": 1601064999393
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1601064999395,
+        "rawEndTime": 1601065000331
+    },
+    {
+        "transactionName": "click_flights",
+        "rawStartTime": 1601065000333,
+        "rawEndTime": 1601065001185
+    },
+    {
+        "transactionName": "click_find_flight",
+        "rawStartTime": 1601065001187,
+        "rawEndTime": 1601065001980
+    },
+    {
+        "transactionName": "click_choose_flight",
+        "rawStartTime": 1601065001982,
+        "rawEndTime": 1601065002761
+    },
+    {
+        "transactionName": "click_book",
+        "rawStartTime": 1601065002763,
+        "rawEndTime": 1601065003614
+    },
+    {
+        "transactionName": "click_sign_off",
+        "rawStartTime": 1601065003616,
+        "rawEndTime": 1601065004485
+    },
+    {
+        "transactionName": "04_BookFlight",
+        "rawStartTime": 1601064998493,
+        "rawEndTime": 1601065004487
+    }
+]

@@ -1,2 +1,2 @@
-"username=john1337&password=%22AqT%22%229r%22&passwordConfirm=%22AqT%22%229r%22&firstName=John&"
-"lastName=Johansson&address1=Dubninskaya+Street&address2=Moscow&register.x=74&register.y=2"
+"username=james1233&password=%22AqT%22%229r%22&passwordConfirm=%22AqT%22%229r%22&firstName=John"
+"&lastName=Johansson&address1=Dubninskaya+Street&address2=Moscow&register.x=74&register.y=2"

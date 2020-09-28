@@ -21,10 +21,20 @@
     <FileEntry Name="04_BookFlight.prm.bak" Filter="1" />
     <FileEntry Name="04_BookFlight.sdf" Filter="1" />
     <FileEntry Name="04_book_flight.prm.bak" Filter="1" />
+    <FileEntry Name="122272278440.idx" Filter="1" />
+    <FileEntry Name="12227227844_Abu.613.idx" Filter="1" />
+    <FileEntry Name="12227227844_B2X.135.idx" Filter="1" />
+    <FileEntry Name="12227227844_Bde.711.idx" Filter="1" />
+    <FileEntry Name="12227227844_djV.899.idx" Filter="1" />
+    <FileEntry Name="12227227844_lFQ.939.idx" Filter="1" />
+    <FileEntry Name="12227227844_x00.323.idx" Filter="1" />
     <FileEntry Name="126893552440.idx" Filter="1" />
     <FileEntry Name="141216098440.idx" Filter="1" />
+    <FileEntry Name="163130255440.idx" Filter="1" />
+    <FileEntry Name="260774488440.idx" Filter="1" />
     <FileEntry Name="267459592440.idx" Filter="1" />
     <FileEntry Name="63611325440.idx" Filter="1" />
+    <FileEntry Name="65826577440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="cities.csv" Filter="1" />
@@ -34,6 +44,16 @@
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv0i5.741.log" Filter="1" />
+    <FileEntry Name="mdrvB1w.611.log" Filter="1" />
+    <FileEntry Name="mdrvEA7.877.log" Filter="1" />
+    <FileEntry Name="mdrvGKM.247.log" Filter="1" />
+    <FileEntry Name="mdrvh9I.159.log" Filter="1" />
+    <FileEntry Name="mdrvigi.195.log" Filter="1" />
+    <FileEntry Name="mdrvK73.407.log" Filter="1" />
+    <FileEntry Name="mdrvxgr.745.log" Filter="1" />
+    <FileEntry Name="mdrvye6.563.log" Filter="1" />
+    <FileEntry Name="mdrvzBC.273.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam(1).dat" Filter="1" />
     <FileEntry Name="NewParam(2).dat" Filter="1" />

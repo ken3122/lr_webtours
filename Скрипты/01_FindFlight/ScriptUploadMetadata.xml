@@ -38,6 +38,10 @@
     <FileEntry Name="login(2).dat" Filter="1" />
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv6bV.35.log" Filter="1" />
+    <FileEntry Name="mdrvb7C.461.log" Filter="1" />
+    <FileEntry Name="mdrviUS.537.log" Filter="1" />
+    <FileEntry Name="mdrvMHn.393.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam_1.dat" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />

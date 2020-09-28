@@ -13,7 +13,23 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="06_Registration.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
+    <FileEntry Name="combined_06_Registration.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="06_Registration.c.pickle" Filter="1" />
+    <FileEntry Name="06_Registration.ci" Filter="1" />
+    <FileEntry Name="06_Registration.prm.bak" Filter="1" />
     <FileEntry Name="06_Registration.sdf" Filter="1" />
+    <FileEntry Name="260343537440.idx" Filter="1" />
+    <FileEntry Name="26034353744_3nC.219.idx" Filter="1" />
+    <FileEntry Name="26034353744_7da.465.idx" Filter="1" />
+    <FileEntry Name="26034353744_C0Q.703.idx" Filter="1" />
+    <FileEntry Name="26034353744_fRo.551.idx" Filter="1" />
+    <FileEntry Name="26034353744_gxZ.923.idx" Filter="1" />
+    <FileEntry Name="26034353744_oF0.731.idx" Filter="1" />
+    <FileEntry Name="26034353744_R4z.789.idx" Filter="1" />
+    <FileEntry Name="26034353744_yBx.543.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />

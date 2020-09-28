@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 25 Sep 2020 20:16:10 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Michael&address2&Moscow&username&michael16&hash&22&lastName&Nilsson%0A&address1&Mansurovsky%20Lane&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

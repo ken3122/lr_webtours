@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Sat, 19 Sep 2020 01:32:41 GMT
+Date: Fri, 25 Sep 2020 20:11:06 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Fri, 18 Sep 2020 01:32:42 GMT
+Expires: Thu, 24 Sep 2020 20:11:06 GMT
 Set-Cookie: MTUserInfo=firstName&Robert&username&rob333&address2&Moscow&hash&83&address1&Kropotkin%20lane&lastName&Karlsson%0A; path=/
 Keep-Alive: timeout=5, max=90
 Connection: Keep-Alive

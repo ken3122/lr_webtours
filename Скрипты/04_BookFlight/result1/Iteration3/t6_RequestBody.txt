@@ -1,4 +1,4 @@
 "firstName=Robert&lastName=Karlsson&address1=Kropotkin+lane&address2=Moscow&pass1=Robert+Karlss"
-"on&creditCard=377905836&expDate=01%2F21&oldCCOption=&numPassengers=1&seatType=Business&seatPre"
-"f=Aisle&outboundFlight=033%3B298%3B09%2F19%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit"
-"=off&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"
+"on&creditCard=377905836&expDate=01%2F21&oldCCOption=&numPassengers=1&seatType=First&seatPref=W"
+"indow&outboundFlight=030%3B472%3B09%2F25%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit=o"
+"ff&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"

@@ -13,6 +13,6 @@ Accept-Language: ru
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1600706118; MTUserInfo=firstName&James&address2&Moscow&username&james123&hash&115&lastName&Andersson%0A&address1&Beskudnikovsky%20Blvd&creditCard&&expDate&%0A
-Content-Length: 240
+Cookie: MSO=SID&1600726608; MTUserInfo=firstName&James&address2&Moscow&username&james123&hash&115&lastName&Andersson%0A&address1&Beskudnikovsky%20Blvd&creditCard&&expDate&%0A
+Content-Length: 244
 

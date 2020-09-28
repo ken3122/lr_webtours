@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 25 Sep 2020 20:26:42 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Callum%20&address2&Moscow&username&Callum234&hash&84&lastName&Farmer%0A&address1&Theological%20lane&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

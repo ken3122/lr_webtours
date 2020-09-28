@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 25 Sep 2020 20:11:17 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Thu, 24 Sep 2020 20:11:17 GMT
+Set-Cookie: MTUserInfo=firstName&Harrison%20&username&Harrison12&address2&Moscow&hash&18&address1&Admiral%20Lazarev%20Street&lastName&Orr%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

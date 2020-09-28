@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "connect_to_server",
+        "rawStartTime": 1601140782577,
+        "rawEndTime": 1601140782897
+    },
+    {
+        "transactionName": "click_sign_up",
+        "rawStartTime": 1601140782899,
+        "rawEndTime": 1601140783195
+    },
+    {
+        "transactionName": "click_create_acc",
+        "rawStartTime": 1601140783197,
+        "rawEndTime": 1601140783443
+    },
+    {
+        "transactionName": "click_continue",
+        "rawStartTime": 1601140783445,
+        "rawEndTime": 1601140783776
+    },
+    {
+        "transactionName": "click_sign_off",
+        "rawStartTime": 1601140783778,
+        "rawEndTime": 1601140784071
+    },
+    {
+        "transactionName": "Registration",
+        "rawStartTime": 1601140782575,
+        "rawEndTime": 1601140784073
+    }
+]

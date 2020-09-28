@@ -1,4 +1,4 @@
 "firstName=James&lastName=Andersson&address1=Beskudnikovsky+Blvd&address2=Moscow&pass1=James+An"
-"dersson&creditCard=253296620&expDate=02%2F23&oldCCOption=&numPassengers=1&seatType=Coach&seatP"
-"ref=None&outboundFlight=012%3B365%3B09%2F19%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmi"
-"t=off&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"
+"dersson&creditCard=253296620&expDate=02%2F23&oldCCOption=&numPassengers=1&seatType=Business&se"
+"atPref=Window&outboundFlight=012%3B529%3B09%2F25%2F2020&advanceDiscount=0&returnFlight=&JSForm"
+"Submit=off&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"

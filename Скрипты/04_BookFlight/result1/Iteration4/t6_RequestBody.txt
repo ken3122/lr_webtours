@@ -1,4 +1,4 @@
 "firstName=Michael&lastName=Nilsson&address1=Mansurovsky+Lane&address2=Moscow&pass1=Michael+Nil"
-"sson&creditCard=928130100&expDate=03%2F24&oldCCOption=&numPassengers=1&seatType=Business&seatP"
-"ref=Window&outboundFlight=043%3B416%3B09%2F19%2F2020&advanceDiscount=0&returnFlight=&JSFormSub"
-"mit=off&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"
+"sson&creditCard=928130100&expDate=03%2F24&oldCCOption=&numPassengers=1&seatType=Coach&seatPref"
+"=Aisle&outboundFlight=040%3B350%3B09%2F25%2F2020&advanceDiscount=0&returnFlight=&JSFormSubmit="
+"off&buyFlights.x=47&buyFlights.y=12&.cgifields=saveCC"
